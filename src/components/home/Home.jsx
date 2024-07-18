@@ -58,7 +58,7 @@ const Home = () => {
                 <a href="https://join.skype.com/invite/cWZDLNNAabo2" target='_blank' className="footer__social-links">
                     <FaSkype/>
                 </a>
-                <a href="https://thomson.medium.com" target='_blank' className="footer__social-links">
+                <a href="https://thomanson.medium.com" target='_blank' className="footer__social-links">
                     <FaMedium/>
                 </a>
             </div>
